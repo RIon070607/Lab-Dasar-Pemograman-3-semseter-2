@@ -7,7 +7,7 @@ uses crt;
     begin 
         clrscr;
 
-            total:= 0;
+            total:= 1;
 
             write('masukkan jumlah angka: ');
             readln(n);
